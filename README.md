@@ -1,4 +1,4 @@
-[![logo](https://github.com/Ammadkhan462/Ammadkhan462/blob/main/Blue%20Minimalist%20LinkedIn%20Banner%20(3).png)
+[![logo](https://github.com/Ammadkhan462/Ammadkhan462/blob/main/Blue%20Minimalist%20LinkedIn%20Banner%20(4).png)
 ]<h1 align="center">Hi 👋, I'm Ammad khan</h1>
 <h3 align="center">A passionate frontend developer as well Backend from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
